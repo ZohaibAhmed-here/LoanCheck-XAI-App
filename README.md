@@ -9,7 +9,7 @@ Developed as part of advanced research in Data Science, this system ensures that
 ---
 
 ## System Preview
-![App Dashboard](Deployment/main.png) 
+![App Dashboard](deployment/main.png) 
 *Note: The interface features a real-time SHAP Waterfall plot to explain model predictions.*
 
 ---
